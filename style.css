@@ -1,0 +1,28 @@
+#menu {
+    margin-bottom: 20px;
+  }
+  
+  #status, #payment, #thankyou {
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  .product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+.product-image {
+    width: 200px;
+}
+.product-name {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+.product-price {
+    font-weight: bold;
+}
+.product-rating, .product-country {
+    font-style: italic;
+    margin-top: 5px;
+}
